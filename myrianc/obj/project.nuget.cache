@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSF7EizJy9FVXY3pxuNObdJzJ1ne7nCcu53wF00kIMuhZlk3NHk7IGZEQRIpcqLHkGP6j3Sbv953ua5uDbncDQ==",
+  "success": true,
+  "projectFilePath": "C:\\myrianc\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
